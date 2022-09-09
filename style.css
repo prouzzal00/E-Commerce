@@ -1,0 +1,136 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    width: 1126px;
+    height: 48px;
+    margin-top: 49px;
+    margin-left: 157px;
+}
+
+.navbar-brand {
+    padding-right: 56px;
+}
+
+.search-key {
+    width: 509px;
+    border-radius: 66px;
+    padding-right: 56px;
+}
+
+.navbar-nav {
+    width: 346px;
+    height: 24px;
+    justify-content: center;
+}
+
+.home-key {
+    width: 48px;
+    height: 24px;
+}
+
+.product-key {
+    width: 63px;
+    height: 24px;
+}
+
+.about-key {
+    height: 24px;
+}
+
+.contact-key {
+    width: 98px;
+    height: 24px;
+}
+
+.container {
+    margin-top: 63px;
+    width: 1212px;
+    height: 455px;
+    background-color: #FEEAE9;
+}
+
+.mi-tv h2 {
+    font-size: 56px;
+}
+
+.carousel-item img {
+    width: 402px;
+    height: 380px;
+}
+
+.carousel-item button {
+    background: #FF136F;
+    color: white;
+}
+
+.carousel-item button:hover {
+    background: #FF136F !important;
+    color: white !important;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FF136F;
+}
+
+.categories {
+    width: 1130px;
+    height: 200px;
+    padding-top: 30px;
+}
+
+.categories .card {
+    width: 359px;
+    height: 120px;
+    background-color: #FF9C35;
+}
+
+.categories .card img {
+    width: 100px;
+    height: 100px;
+}
+
+.categories .cat-item {
+    color: white;
+    font-size: 40px;
+}
+
+.cat-shoes {
+    width: 1128px;
+    padding-top: 46px;
+    margin-bottom: 98px;
+}
+
+.shoes-title {
+    margin-left: 105px;
+}
+
+.cat-shoes img {
+    width: 336px;
+    height: 202px;
+}
+
+.buy-btn {
+    background-color: black;
+    color: white;
+}
+
+.shoes-box {
+    background-color: #e8dede;
+}
+
+.cat-bag img {
+    width: 290px;
+    height: 290px;
+    padding-bottom: 22px;
+}
+
+.lw-sec {
+    background-color: #FFF2F1;
+    padding-top: 147px;
+    padding-bottom: 146px;
+}
